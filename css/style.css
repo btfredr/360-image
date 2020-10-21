@@ -1,4 +1,17 @@
+.sliderContainer {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.slider {
+    display: flex;
+    justify-content: center;
+}
+
 #slider {
     cursor: grab;
-    
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
 }
